@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mike Arrieta
+- 👀 I’m interested in learning and sharing knowledge with the community.
+- 🌱 I’m currently learning Python, dark and go
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me : arrieta.cdmx@outlook.com 
